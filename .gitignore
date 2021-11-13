@@ -1,2 +1,4 @@
 /out
 .dapprc
+.sethrc
+password.txt
